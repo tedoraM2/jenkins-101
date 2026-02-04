@@ -1,2 +1,1 @@
-
-print("Hello world")
+print("Hello world on 5 Minute")
